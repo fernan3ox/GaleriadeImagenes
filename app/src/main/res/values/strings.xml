@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Galeria de Imagenes</string>
+    <string name="futbol">Futbol</string>
+    <string name="balloncesto">Balloncesto</string>
+    <string name="Tennis">Tenis</string>
+    <string name="volley">Volleybol</string>
+</resources>
